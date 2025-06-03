@@ -38,7 +38,7 @@ This project demonstrates how to perform SQL-style queries on pandas DataFrames 
 
 ## 📂 Files in the Repository:
 
-- `https://colab.research.google.com/drive/1NeRMKB-_YX1zJ4jxMzQabKWc-7Z2Cs0Y?usp=sharing` – Jupyter notebook with complete analysis
+- `https://github.com/RahulRaman1995/Order_data_pandasql_project/blob/main/Pandasql_Order_data_Project.ipynb` – Jupyter notebook with complete analysis
 
 
 ---
